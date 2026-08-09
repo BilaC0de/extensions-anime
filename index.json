@@ -834,10 +834,10 @@
   {
     "name": "Aniyomi: Torrentio (Torrent / Debrid)",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.torrentio",
-    "apk": "aniyomi-all.torrentio-v14.8.apk",
+    "apk": "aniyomi-all.torrentio-v14.9.apk",
     "lang": "all",
-    "code": 8,
-    "version": "14.8",
+    "code": 9,
+    "version": "14.9",
     "nsfw": 0,
     "sources": [
       {
@@ -1552,6 +1552,24 @@
     ]
   },
   {
+    "name": "Aniyomi: AniNeko",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.anineko",
+    "apk": "aniyomi-en.anineko-v14.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "AniNeko",
+        "lang": "en",
+        "id": "1578760449259207021",
+        "baseUrl": "https://anineko.to",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: AniWave (Unoriginal)",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.aniwave",
     "apk": "aniyomi-en.aniwave-v14.3.apk",
@@ -1626,10 +1644,10 @@
   {
     "name": "Aniyomi: Cineby",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.cineby",
-    "apk": "aniyomi-en.cineby-v14.8.apk",
+    "apk": "aniyomi-en.cineby-v14.9.apk",
     "lang": "en",
-    "code": 8,
-    "version": "14.8",
+    "code": 9,
+    "version": "14.9",
     "nsfw": 1,
     "sources": [
       {
@@ -1691,6 +1709,24 @@
         "lang": "en",
         "id": "2649711761599612719",
         "baseUrl": "https://hanime.tv",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: HentaiHaven",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.hentaihaven",
+    "apk": "aniyomi-en.hentaihaven-v14.2.apk",
+    "lang": "en",
+    "code": 2,
+    "version": "14.2",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "HentaiHaven",
+        "lang": "en",
+        "id": "1700779054663752842",
+        "baseUrl": "https://hentaihaven.xxx",
         "versionId": 1
       }
     ]
@@ -1932,10 +1968,10 @@
   {
     "name": "Aniyomi: MKissa",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.mkissa",
-    "apk": "aniyomi-en.mkissa-v14.59.apk",
+    "apk": "aniyomi-en.mkissa-v14.61.apk",
     "lang": "en",
-    "code": 59,
-    "version": "14.59",
+    "code": 61,
+    "version": "14.61",
     "nsfw": 0,
     "sources": [
       {
@@ -2069,6 +2105,24 @@
         "lang": "en",
         "id": "8569022244537791293",
         "baseUrl": "https://pinoymoviepedia.ru",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: Re:ANIME",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.reanime",
+    "apk": "aniyomi-en.reanime-v14.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Re:ANIME",
+        "lang": "en",
+        "id": "7105156973687362431",
+        "baseUrl": "https://reanime.to",
         "versionId": 1
       }
     ]
@@ -3800,17 +3854,17 @@
   {
     "name": "Aniyomi: Anime Saturn",
     "pkg": "eu.kanade.tachiyomi.animeextension.it.animesaturn",
-    "apk": "aniyomi-it.animesaturn-v14.11.apk",
+    "apk": "aniyomi-it.animesaturn-v14.12.apk",
     "lang": "it",
-    "code": 11,
-    "version": "14.11",
+    "code": 12,
+    "version": "14.12",
     "nsfw": 0,
     "sources": [
       {
         "name": "AnimeSaturn",
         "lang": "it",
         "id": "1863212142777957799",
-        "baseUrl": "https://www.anisaturn.net",
+        "baseUrl": "https://animesaturn.net",
         "versionId": 1
       }
     ]
