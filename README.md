@@ -21,7 +21,7 @@ Les extensions sont principalement orientées vers les sites de streaming d'anim
 |---|---|
 | Branche de distribution | `repo-anime` |
 | Format d'index | `index.min.json` |
-| Signature | `1bbbd3c6b113f7133d1e03fa443ca7ec36d495dd30dbd36ebc294e7d9a000676` |
+| Signature | `dc985bce9e4f6e80b163665b39ae99d0c353b4c9d48e4f81ee58eb0d0593b1a2` |
 | Build | GitHub Actions sur push `dev` |
 
 ## Développement
