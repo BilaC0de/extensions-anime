@@ -1606,6 +1606,24 @@
     ]
   },
   {
+    "name": "Aniyomi: AniPM",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.anipm",
+    "apk": "aniyomi-en.anipm-v16.2.apk",
+    "lang": "en",
+    "code": 2,
+    "version": "16.2",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "AniPM",
+        "lang": "en",
+        "id": "3404118931365067168",
+        "baseUrl": "https://ani.pm",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: AniWave (Unoriginal)",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.aniwave",
     "apk": "aniyomi-en.aniwave-v16.10.apk",
@@ -1950,10 +1968,10 @@
   {
     "name": "Aniyomi: Mapple",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.mapple",
-    "apk": "aniyomi-en.mapple-v16.5.apk",
+    "apk": "aniyomi-en.mapple-v16.6.apk",
     "lang": "en",
-    "code": 5,
-    "version": "16.5",
+    "code": 6,
+    "version": "16.6",
     "nsfw": 1,
     "sources": [
       {
@@ -1986,10 +2004,10 @@
   {
     "name": "Aniyomi: MKissa",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.mkissa",
-    "apk": "aniyomi-en.mkissa-v14.67.apk",
+    "apk": "aniyomi-en.mkissa-v14.68.apk",
     "lang": "en",
-    "code": 67,
-    "version": "14.67",
+    "code": 68,
+    "version": "14.68",
     "nsfw": 0,
     "sources": [
       {
@@ -2141,6 +2159,24 @@
         "lang": "en",
         "id": "9212790518101043860",
         "baseUrl": "https://rule34video.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: Senshi",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.senshi",
+    "apk": "aniyomi-en.senshi-v16.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "16.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Senshi",
+        "lang": "en",
+        "id": "347387517233905584",
+        "baseUrl": "https://senshi.to",
         "versionId": 1
       }
     ]
@@ -4502,10 +4538,10 @@
   {
     "name": "Aniyomi: Goyabu",
     "pkg": "eu.kanade.tachiyomi.animeextension.pt.goyabu",
-    "apk": "aniyomi-pt.goyabu-v14.4.apk",
+    "apk": "aniyomi-pt.goyabu-v14.5.apk",
     "lang": "pt-BR",
-    "code": 4,
-    "version": "14.4",
+    "code": 5,
+    "version": "14.5",
     "nsfw": 1,
     "sources": [
       {
