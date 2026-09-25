@@ -1588,6 +1588,24 @@
     ]
   },
   {
+    "name": "Aniyomi: AnimeToki",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.animetoki",
+    "apk": "aniyomi-en.animetoki-v16.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "16.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "AnimeToki",
+        "lang": "en",
+        "id": "3337936007905599978",
+        "baseUrl": "https://animetoki.com",
+        "versionId": 1
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: AniNeko",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.anineko",
     "apk": "aniyomi-en.anineko-v16.5.apk",
@@ -1608,10 +1626,10 @@
   {
     "name": "Aniyomi: AniPM",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.anipm",
-    "apk": "aniyomi-en.anipm-v16.2.apk",
+    "apk": "aniyomi-en.anipm-v16.3.apk",
     "lang": "en",
-    "code": 2,
-    "version": "16.2",
+    "code": 3,
+    "version": "16.3",
     "nsfw": 1,
     "sources": [
       {
@@ -4862,24 +4880,6 @@
         "lang": "tr",
         "id": "2607995207802293539",
         "baseUrl": "https://www.tranimeizle.io",
-        "versionId": 1
-      }
-    ]
-  },
-  {
-    "name": "Aniyomi: Türk Anime TV",
-    "pkg": "eu.kanade.tachiyomi.animeextension.tr.turkanime",
-    "apk": "aniyomi-tr.turkanime-v14.52.apk",
-    "lang": "tr",
-    "code": 52,
-    "version": "14.52",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "Türk Anime TV",
-        "lang": "tr",
-        "id": "1539162878022626585",
-        "baseUrl": "https://www.turkanime.tv",
         "versionId": 1
       }
     ]
