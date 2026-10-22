@@ -1716,10 +1716,10 @@
   {
     "name": "Aniyomi: AniWaves.ru",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.aniwaves",
-    "apk": "aniyomi-en.aniwaves-v14.3.apk",
+    "apk": "aniyomi-en.aniwaves-v16.3.apk",
     "lang": "en",
     "code": 3,
-    "version": "14.3",
+    "version": "16.3",
     "nsfw": 0,
     "sources": [
       {
