@@ -381,12 +381,12 @@
         "name": "Movy",
         "packageName": "eu.kanade.tachiyomi.animeextension.all.movy",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-all.movy-v16.2.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-all.movy-v16.3.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.all.movy.png"
         },
         "extensionLib": "16",
-        "versionCode": "2",
-        "versionName": "16.2",
+        "versionCode": "3",
+        "versionName": "16.3",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -1507,12 +1507,12 @@
         "name": "AniDB",
         "packageName": "eu.kanade.tachiyomi.animeextension.en.anidb",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.anidb-v16.7.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.anidb-v16.8.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.en.anidb.png"
         },
         "extensionLib": "16",
-        "versionCode": "7",
-        "versionName": "16.7",
+        "versionCode": "8",
+        "versionName": "16.8",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -1967,12 +1967,12 @@
         "name": "hanime.tv",
         "packageName": "eu.kanade.tachiyomi.animeextension.en.hanime",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.hanime-v14.24.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.hanime-v16.25.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.en.hanime.png"
         },
-        "extensionLib": "14",
-        "versionCode": "24",
-        "versionName": "14.24",
+        "extensionLib": "16",
+        "versionCode": "25",
+        "versionName": "16.25",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -2307,12 +2307,12 @@
         "name": "Oppai Stream",
         "packageName": "eu.kanade.tachiyomi.animeextension.en.oppaistream",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.oppaistream-v14.6.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.oppaistream-v16.7.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.en.oppaistream.png"
         },
-        "extensionLib": "14",
-        "versionCode": "6",
-        "versionName": "14.6",
+        "extensionLib": "16",
+        "versionCode": "7",
+        "versionName": "16.7",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
