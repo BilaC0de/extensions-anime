@@ -373,7 +373,12 @@
             "id": "168969881246615628",
             "name": "MissAV",
             "language": "all",
-            "homeUrl": "https://missav.live"
+            "homeUrl": "https://missav.live",
+            "mirrorUrls": [
+              "https://missav.live",
+              "https://missav.ai",
+              "https://missav.ws"
+            ]
           }
         ]
       },
@@ -710,26 +715,6 @@
         ]
       },
       {
-        "name": "ShabakatyCinemana",
-        "packageName": "eu.kanade.tachiyomi.animeextension.all.shabakatycinemana",
-        "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-all.shabakatycinemana-v14.3.apk",
-          "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.all.shabakatycinemana.png"
-        },
-        "extensionLib": "14",
-        "versionCode": "3",
-        "versionName": "14.3",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "7409266434239021230",
-            "name": "Shabakaty Cinemana",
-            "language": "all",
-            "homeUrl": "https://cinemana.shabakaty.com"
-          }
-        ]
-      },
-      {
         "name": "StreamingCommunity",
         "packageName": "eu.kanade.tachiyomi.animeextension.all.streamingcommunity",
         "resources": {
@@ -999,7 +984,12 @@
             "id": "5743347900850233900",
             "name": "\u0623\u0646\u0645\u064a \u0628\u0627\u0644\u0643\u0648\u0645",
             "language": "ar",
-            "homeUrl": "https://animeblkom.net"
+            "homeUrl": "https://animeblkom.net",
+            "mirrorUrls": [
+              "https://animeblkom.net",
+              "https://animeblkom.tv",
+              "https://blkom.com"
+            ]
           }
         ]
       },
@@ -1507,12 +1497,12 @@
         "name": "AniDB",
         "packageName": "eu.kanade.tachiyomi.animeextension.en.anidb",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.anidb-v16.8.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.anidb-v16.9.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.en.anidb.png"
         },
         "extensionLib": "16",
-        "versionCode": "8",
-        "versionName": "16.8",
+        "versionCode": "9",
+        "versionName": "16.9",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -1579,7 +1569,15 @@
             "id": "4697393375201558791",
             "name": "Anikoto",
             "language": "en",
-            "homeUrl": "https://anikototv.to"
+            "homeUrl": "https://anikototv.to",
+            "mirrorUrls": [
+              "https://anikototv.to",
+              "https://anikoto.bz",
+              "https://anikoto.cz",
+              "https://anikoto.me",
+              "https://anikoto.net",
+              "https://anikototv.se"
+            ]
           }
         ]
       },
@@ -1599,7 +1597,11 @@
             "id": "5301034000422404358",
             "name": "AniKuro",
             "language": "en",
-            "homeUrl": "https://anikuro.to"
+            "homeUrl": "https://anikuro.to",
+            "mirrorUrls": [
+              "https://anikuro.to",
+              "https://anikuro.ru"
+            ]
           }
         ]
       },
@@ -1699,7 +1701,12 @@
             "id": "9163675745699695675",
             "name": "AnimePahe",
             "language": "en",
-            "homeUrl": "https://animepahe.pw"
+            "homeUrl": "https://animepahe.pw",
+            "mirrorUrls": [
+              "https://animepahe.pw",
+              "https://animepahe.com",
+              "https://animepahe.org"
+            ]
           }
         ]
       },
@@ -1819,7 +1826,11 @@
             "id": "4383278740715532790",
             "name": "AniWave (Unoriginal)",
             "language": "en",
-            "homeUrl": "https://animewave.to"
+            "homeUrl": "https://animewave.to",
+            "mirrorUrls": [
+              "https://animewave.to",
+              "https://aniwave.cz"
+            ]
           }
         ]
       },
@@ -1879,7 +1890,12 @@
             "id": "1014227790860730234",
             "name": "AV1Encodes",
             "language": "en",
-            "homeUrl": "https://av1encodes.com"
+            "homeUrl": "https://av1encodes.com",
+            "mirrorUrls": [
+              "https://av1encodes.com",
+              "https://animealpha.cc",
+              "https://av1please.com"
+            ]
           }
         ]
       },
@@ -1947,12 +1963,12 @@
         "name": "haho.moe",
         "packageName": "eu.kanade.tachiyomi.animeextension.en.hahomoe",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.hahomoe-v14.10.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.hahomoe-v16.11.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.en.hahomoe.png"
         },
-        "extensionLib": "14",
-        "versionCode": "10",
-        "versionName": "14.10",
+        "extensionLib": "16",
+        "versionCode": "11",
+        "versionName": "16.11",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -2064,26 +2080,6 @@
         ]
       },
       {
-        "name": "JPFilms",
-        "packageName": "eu.kanade.tachiyomi.animeextension.en.jpfilms",
-        "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.jpfilms-v14.7.apk",
-          "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.en.jpfilms.png"
-        },
-        "extensionLib": "14",
-        "versionCode": "7",
-        "versionName": "14.7",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "865558085806297637",
-            "name": "JPFilms",
-            "language": "en",
-            "homeUrl": "https://jp-films.com"
-          }
-        ]
-      },
-      {
         "name": "Kayoanime",
         "packageName": "eu.kanade.tachiyomi.animeextension.en.kayoanime",
         "resources": {
@@ -2119,7 +2115,11 @@
             "id": "2081771513481539599",
             "name": "KickAssAnime",
             "language": "en",
-            "homeUrl": "https://kaa.lt"
+            "homeUrl": "https://kaa.lt",
+            "mirrorUrls": [
+              "https://kaa.lt",
+              "https://kaa.to"
+            ]
           }
         ]
       },
@@ -2159,7 +2159,15 @@
             "id": "2434089544252410046",
             "name": "KissKH",
             "language": "en",
-            "homeUrl": "https://kisskh.ovh"
+            "homeUrl": "https://kisskh.ovh",
+            "mirrorUrls": [
+              "https://kisskh.ovh",
+              "https://kisskh.do",
+              "https://kisskh.co",
+              "https://kisskh.id",
+              "https://kisskh.la",
+              "https://kisskh.is"
+            ]
           }
         ]
       },
@@ -2179,7 +2187,13 @@
             "id": "1571236147208399860",
             "name": "AnimeKai (Unoriginal)",
             "language": "en",
-            "homeUrl": "https://animekaitv.to"
+            "homeUrl": "https://animekaitv.to",
+            "mirrorUrls": [
+              "https://animekaitv.to",
+              "https://anikaitv.to",
+              "https://animekai.se",
+              "https://anikai.se"
+            ]
           }
         ]
       },
@@ -2299,7 +2313,11 @@
             "id": "9168084761765988435",
             "name": "123Anime",
             "language": "en",
-            "homeUrl": "https://123animehub.cc"
+            "homeUrl": "https://123animehub.cc",
+            "mirrorUrls": [
+              "https://123animehub.cc",
+              "https://123anime.la"
+            ]
           }
         ]
       },
@@ -2359,7 +2377,12 @@
             "id": "7105156973687362431",
             "name": "Re:ANIME",
             "language": "en",
-            "homeUrl": "https://reanime.to"
+            "homeUrl": "https://reanime.to",
+            "mirrorUrls": [
+              "https://reanime.to",
+              "https://reanime.cz",
+              "https://reanime.wtf"
+            ]
           }
         ]
       },
@@ -2387,39 +2410,19 @@
         "name": "Senshi",
         "packageName": "eu.kanade.tachiyomi.animeextension.en.senshi",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.senshi-v16.5.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.senshi-v16.6.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.en.senshi.png"
         },
         "extensionLib": "16",
-        "versionCode": "5",
-        "versionName": "16.5",
-        "contentWarning": "CONTENT_WARNING_NSFW",
+        "versionCode": "6",
+        "versionName": "16.6",
+        "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
             "id": "347387517233905584",
             "name": "Senshi",
             "language": "en",
             "homeUrl": "https://senshi.to"
-          }
-        ]
-      },
-      {
-        "name": "SuperStream",
-        "packageName": "eu.kanade.tachiyomi.animeextension.en.superstream",
-        "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.superstream-v14.11.apk",
-          "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.en.superstream.png"
-        },
-        "extensionLib": "14",
-        "versionCode": "11",
-        "versionName": "14.11",
-        "contentWarning": "CONTENT_WARNING_NSFW",
-        "sources": [
-          {
-            "id": "4654371105831183338",
-            "name": "SuperStream",
-            "language": "en",
-            "homeUrl": "https://showbox.shegu.net/api/api_client/index/"
           }
         ]
       },
@@ -2599,7 +2602,11 @@
             "id": "3262358113047577744",
             "name": "XAnime",
             "language": "en",
-            "homeUrl": "https://xanime.me"
+            "homeUrl": "https://xanime.me",
+            "mirrorUrls": [
+              "https://xanime.me",
+              "https://xanime.app"
+            ]
           }
         ]
       },
@@ -3825,7 +3832,11 @@
             "id": "1449801594109278557",
             "name": "EmpireStreaming",
             "language": "fr",
-            "homeUrl": "https://empire-stream.net"
+            "homeUrl": "https://empire-stream.net",
+            "mirrorUrls": [
+              "https://empire-stream.net",
+              "https://empire-streaming.app"
+            ]
           }
         ]
       },
@@ -4245,7 +4256,14 @@
             "id": "1863212142777957799",
             "name": "AnimeSaturn",
             "language": "it",
-            "homeUrl": "https://animesaturn.net"
+            "homeUrl": "https://animesaturn.net",
+            "mirrorUrls": [
+              "https://animesaturn.net",
+              "https://animesaturn.cx",
+              "https://animesaturn.cc",
+              "https://animesaturn.com",
+              "https://animemars.org"
+            ]
           }
         ]
       },
@@ -4670,26 +4688,6 @@
         ]
       },
       {
-        "name": "DarkMahou",
-        "packageName": "eu.kanade.tachiyomi.animeextension.pt.darkmahou",
-        "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-pt.darkmahou-v14.24.apk",
-          "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.pt.darkmahou.png"
-        },
-        "extensionLib": "14",
-        "versionCode": "24",
-        "versionName": "14.24",
-        "contentWarning": "CONTENT_WARNING_SAFE",
-        "sources": [
-          {
-            "id": "59748104323952005",
-            "name": "DarkMahou (Torrent)",
-            "language": "pt-BR",
-            "homeUrl": "https://darkmahou.org"
-          }
-        ]
-      },
-      {
         "name": "DattebayoBR",
         "packageName": "eu.kanade.tachiyomi.animeextension.pt.dattebayobr",
         "resources": {
@@ -4925,7 +4923,13 @@
             "id": "1484002441113474607",
             "name": "Animelib",
             "language": "ru",
-            "homeUrl": "https://animelib.org/ru"
+            "homeUrl": "https://animelib.org/ru",
+            "mirrorUrls": [
+              "https://animelib.org/ru",
+              "https://v3.animelib.org/ru",
+              "https://v4.animelib.org/ru",
+              "https://v5.animelib.org/ru"
+            ]
           }
         ]
       },
