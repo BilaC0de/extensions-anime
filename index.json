@@ -2063,12 +2063,12 @@
         "name": "Hstream",
         "packageName": "eu.kanade.tachiyomi.animeextension.en.hstream",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.hstream-v14.12.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.hstream-v16.13.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.en.hstream.png"
         },
-        "extensionLib": "14",
-        "versionCode": "12",
-        "versionName": "14.12",
+        "extensionLib": "16",
+        "versionCode": "13",
+        "versionName": "16.13",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -2423,6 +2423,32 @@
             "name": "Senshi",
             "language": "en",
             "homeUrl": "https://senshi.to"
+          }
+        ]
+      },
+      {
+        "name": "ShuttleTV",
+        "packageName": "eu.kanade.tachiyomi.animeextension.en.shuttletv",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.shuttletv-v16.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.en.shuttletv.png"
+        },
+        "extensionLib": "16",
+        "versionCode": "1",
+        "versionName": "16.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "778627055185364080",
+            "name": "ShuttleTV",
+            "language": "en",
+            "homeUrl": "https://shuttletv.su",
+            "mirrorUrls": [
+              "https://shuttletv.su",
+              "https://shuttletv.pk",
+              "https://shuttletv.me",
+              "https://shuttletv.cr"
+            ]
           }
         ]
       },
