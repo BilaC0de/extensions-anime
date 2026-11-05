@@ -1794,12 +1794,12 @@
         "name": "AniPM",
         "packageName": "eu.kanade.tachiyomi.animeextension.en.anipm",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.anipm-v16.7.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.anipm-v16.8.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.en.anipm.png"
         },
         "extensionLib": "16",
-        "versionCode": "7",
-        "versionName": "16.7",
+        "versionCode": "8",
+        "versionName": "16.8",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -1920,6 +1920,26 @@
         ]
       },
       {
+        "name": "Cinejoy",
+        "packageName": "eu.kanade.tachiyomi.animeextension.en.cinejoy",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.cinejoy-v16.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.en.cinejoy.png"
+        },
+        "extensionLib": "16",
+        "versionCode": "1",
+        "versionName": "16.1",
+        "contentWarning": "CONTENT_WARNING_MIXED",
+        "sources": [
+          {
+            "id": "3466517675390920839",
+            "name": "Cinejoy",
+            "language": "en",
+            "homeUrl": "https://cinejoy.pk"
+          }
+        ]
+      },
+      {
         "name": "DonghuaStream",
         "packageName": "eu.kanade.tachiyomi.animeextension.en.donghuastream",
         "resources": {
@@ -1943,12 +1963,12 @@
         "name": "Gotaku",
         "packageName": "eu.kanade.tachiyomi.animeextension.en.gotaku",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.gotaku-v16.7.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.gotaku-v16.8.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.en.gotaku.png"
         },
         "extensionLib": "16",
-        "versionCode": "7",
-        "versionName": "16.7",
+        "versionCode": "8",
+        "versionName": "16.8",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
