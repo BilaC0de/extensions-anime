@@ -338,6 +338,30 @@
         ]
       },
       {
+        "name": "Kartoons",
+        "packageName": "eu.kanade.tachiyomi.animeextension.all.kartoons",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-all.kartoons-v16.1.apk",
+          "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.all.kartoons.png"
+        },
+        "extensionLib": "16",
+        "versionCode": "1",
+        "versionName": "16.1",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "8038306726265589667",
+            "name": "Kartoons",
+            "language": "all",
+            "homeUrl": "https://kartoons.to",
+            "mirrorUrls": [
+              "https://kartoons.to",
+              "https://kartoons.me"
+            ]
+          }
+        ]
+      },
+      {
         "name": "LMAnime",
         "packageName": "eu.kanade.tachiyomi.animeextension.all.lmanime",
         "resources": {
@@ -1497,12 +1521,12 @@
         "name": "AniDB",
         "packageName": "eu.kanade.tachiyomi.animeextension.en.anidb",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.anidb-v16.9.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.anidb-v16.10.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.en.anidb.png"
         },
         "extensionLib": "16",
-        "versionCode": "9",
-        "versionName": "16.9",
+        "versionCode": "10",
+        "versionName": "16.10",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
