@@ -1521,12 +1521,12 @@
         "name": "AniDB",
         "packageName": "eu.kanade.tachiyomi.animeextension.en.anidb",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.anidb-v16.10.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.anidb-v16.11.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.en.anidb.png"
         },
         "extensionLib": "16",
-        "versionCode": "10",
-        "versionName": "16.10",
+        "versionCode": "11",
+        "versionName": "16.11",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
