@@ -2409,12 +2409,12 @@
         "name": "Re:ANIME",
         "packageName": "eu.kanade.tachiyomi.animeextension.en.reanime",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.reanime-v16.14.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.reanime-v16.15.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.en.reanime.png"
         },
         "extensionLib": "16",
-        "versionCode": "14",
-        "versionName": "16.14",
+        "versionCode": "15",
+        "versionName": "16.15",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
