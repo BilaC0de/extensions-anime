@@ -1987,12 +1987,12 @@
         "name": "Gotaku",
         "packageName": "eu.kanade.tachiyomi.animeextension.en.gotaku",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.gotaku-v16.9.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.gotaku-v16.10.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.en.gotaku.png"
         },
         "extensionLib": "16",
-        "versionCode": "9",
-        "versionName": "16.9",
+        "versionCode": "10",
+        "versionName": "16.10",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
