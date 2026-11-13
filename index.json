@@ -4034,19 +4034,19 @@
         "name": "Voiranime",
         "packageName": "eu.kanade.tachiyomi.animeextension.fr.voiranime",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-fr.voiranime-v14.5.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-fr.voiranime-v14.6.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.fr.voiranime.png"
         },
         "extensionLib": "14",
-        "versionCode": "5",
-        "versionName": "14.5",
+        "versionCode": "6",
+        "versionName": "14.6",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
             "id": "5371141424049189102",
             "name": "Voiranime",
             "language": "fr",
-            "homeUrl": "https://voir-anime.to"
+            "homeUrl": "https://voiranime.cx"
           }
         ]
       },
