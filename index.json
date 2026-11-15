@@ -3850,12 +3850,12 @@
         "name": "Anime-Sama",
         "packageName": "eu.kanade.tachiyomi.animeextension.fr.animesama",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-fr.animesama-v16.35.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-fr.animesama-v16.36.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.fr.animesama.png"
         },
         "extensionLib": "16",
-        "versionCode": "35",
-        "versionName": "16.35",
+        "versionCode": "36",
+        "versionName": "16.36",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
