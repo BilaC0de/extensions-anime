@@ -1712,12 +1712,12 @@
         "name": "AnimePahe",
         "packageName": "eu.kanade.tachiyomi.animeextension.en.animepahe",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.animepahe-v16.58.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.animepahe-v16.59.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.en.animepahe.png"
         },
         "extensionLib": "16",
-        "versionCode": "58",
-        "versionName": "16.58",
+        "versionCode": "59",
+        "versionName": "16.59",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
