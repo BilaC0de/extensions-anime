@@ -12,12 +12,12 @@
         "name": "AnimeOnsen",
         "packageName": "eu.kanade.tachiyomi.animeextension.all.animeonsen",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-all.animeonsen-v14.11.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-all.animeonsen-v16.12.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.all.animeonsen.png"
         },
-        "extensionLib": "14",
-        "versionCode": "11",
-        "versionName": "14.11",
+        "extensionLib": "16",
+        "versionCode": "12",
+        "versionName": "16.12",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -1261,12 +1261,12 @@
         "name": "FilmiFen",
         "packageName": "eu.kanade.tachiyomi.animeextension.bg.filmifen",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-bg.filmifen-v16.5.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-bg.filmifen-v16.4.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.bg.filmifen.png"
         },
         "extensionLib": "16",
-        "versionCode": "5",
-        "versionName": "16.5",
+        "versionCode": "4",
+        "versionName": "16.4",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -1341,12 +1341,12 @@
         "name": "AnimeToast",
         "packageName": "eu.kanade.tachiyomi.animeextension.de.animetoast",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-de.animetoast-v14.39.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-de.animetoast-v14.38.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.de.animetoast.png"
         },
         "extensionLib": "14",
-        "versionCode": "39",
-        "versionName": "14.39",
+        "versionCode": "38",
+        "versionName": "14.38",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -1361,12 +1361,12 @@
         "name": "AniWorld",
         "packageName": "eu.kanade.tachiyomi.animeextension.de.aniworld",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-de.aniworld-v14.44.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-de.aniworld-v14.43.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.de.aniworld.png"
         },
         "extensionLib": "14",
-        "versionCode": "44",
-        "versionName": "14.44",
+        "versionCode": "43",
+        "versionName": "14.43",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -1421,12 +1421,12 @@
         "name": "Kool",
         "packageName": "eu.kanade.tachiyomi.animeextension.de.kool",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-de.kool-v14.30.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-de.kool-v14.29.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.de.kool.png"
         },
         "extensionLib": "14",
-        "versionCode": "30",
-        "versionName": "14.30",
+        "versionCode": "29",
+        "versionName": "14.29",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -1501,12 +1501,12 @@
         "name": "Anichi",
         "packageName": "eu.kanade.tachiyomi.animeextension.en.anichi",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.anichi-v16.12.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.anichi-v16.13.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.en.anichi.png"
         },
         "extensionLib": "16",
-        "versionCode": "12",
-        "versionName": "16.12",
+        "versionCode": "13",
+        "versionName": "16.13",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -1581,12 +1581,12 @@
         "name": "Anikoto",
         "packageName": "eu.kanade.tachiyomi.animeextension.en.anikoto",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.anikoto-v16.13.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.anikoto-v16.14.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.en.anikoto.png"
         },
         "extensionLib": "16",
-        "versionCode": "13",
-        "versionName": "16.13",
+        "versionCode": "14",
+        "versionName": "16.14",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -1757,12 +1757,12 @@
         "name": "AnimeSogo",
         "packageName": "eu.kanade.tachiyomi.animeextension.en.animesogo",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.animesogo-v16.12.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.animesogo-v16.13.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.en.animesogo.png"
         },
         "extensionLib": "16",
-        "versionCode": "12",
-        "versionName": "16.12",
+        "versionCode": "13",
+        "versionName": "16.13",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -1777,12 +1777,12 @@
         "name": "AnimeTake",
         "packageName": "eu.kanade.tachiyomi.animeextension.en.animetake",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.animetake-v16.24.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.animetake-v16.23.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.en.animetake.png"
         },
         "extensionLib": "16",
-        "versionCode": "24",
-        "versionName": "16.24",
+        "versionCode": "23",
+        "versionName": "16.23",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -1837,12 +1837,12 @@
         "name": "AniWave (Unoriginal)",
         "packageName": "eu.kanade.tachiyomi.animeextension.en.aniwave",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.aniwave-v16.14.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.aniwave-v16.15.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.en.aniwave.png"
         },
         "extensionLib": "16",
-        "versionCode": "14",
-        "versionName": "16.14",
+        "versionCode": "15",
+        "versionName": "16.15",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -1926,12 +1926,12 @@
         "name": "BLZone",
         "packageName": "eu.kanade.tachiyomi.animeextension.en.blzone",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.blzone-v14.13.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.blzone-v14.12.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.en.blzone.png"
         },
         "extensionLib": "14",
-        "versionCode": "13",
-        "versionName": "14.13",
+        "versionCode": "12",
+        "versionName": "14.12",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "sources": [
           {
@@ -2218,12 +2218,12 @@
         "name": "AnimeKai (Unoriginal)",
         "packageName": "eu.kanade.tachiyomi.animeextension.en.kotokai",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.kotokai-v16.12.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.kotokai-v16.13.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.en.kotokai.png"
         },
         "extensionLib": "16",
-        "versionCode": "12",
-        "versionName": "16.12",
+        "versionCode": "13",
+        "versionName": "16.13",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -2284,12 +2284,12 @@
         "name": "MKissa",
         "packageName": "eu.kanade.tachiyomi.animeextension.en.mkissa",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.mkissa-v16.78.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.mkissa-v16.77.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.en.mkissa.png"
         },
         "extensionLib": "16",
-        "versionCode": "78",
-        "versionName": "16.78",
+        "versionCode": "77",
+        "versionName": "16.77",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -2408,12 +2408,12 @@
         "name": "Re:ANIME",
         "packageName": "eu.kanade.tachiyomi.animeextension.en.reanime",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.reanime-v16.19.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.reanime-v16.20.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.en.reanime.png"
         },
         "extensionLib": "16",
-        "versionCode": "19",
-        "versionName": "16.19",
+        "versionCode": "20",
+        "versionName": "16.20",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -2703,12 +2703,12 @@
         "name": "AnimeBum",
         "packageName": "eu.kanade.tachiyomi.animeextension.es.animebum",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.animebum-v14.25.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.animebum-v14.24.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.es.animebum.png"
         },
         "extensionLib": "14",
-        "versionCode": "25",
-        "versionName": "14.25",
+        "versionCode": "24",
+        "versionName": "14.24",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -2743,12 +2743,12 @@
         "name": "AnimeLatinoHD",
         "packageName": "eu.kanade.tachiyomi.animeextension.es.animelatinohd",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.animelatinohd-v14.59.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.animelatinohd-v14.58.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.es.animelatinohd.png"
         },
         "extensionLib": "14",
-        "versionCode": "59",
-        "versionName": "14.59",
+        "versionCode": "58",
+        "versionName": "14.58",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -2763,12 +2763,12 @@
         "name": "AnimeMovil",
         "packageName": "eu.kanade.tachiyomi.animeextension.es.animemovil",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.animemovil-v14.53.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.animemovil-v14.52.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.es.animemovil.png"
         },
         "extensionLib": "14",
-        "versionCode": "53",
-        "versionName": "14.53",
+        "versionCode": "52",
+        "versionName": "14.52",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -2783,12 +2783,12 @@
         "name": "Animenix",
         "packageName": "eu.kanade.tachiyomi.animeextension.es.animenix",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.animenix-v14.30.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.animenix-v14.29.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.es.animenix.png"
         },
         "extensionLib": "14",
-        "versionCode": "30",
-        "versionName": "14.30",
+        "versionCode": "29",
+        "versionName": "14.29",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -2803,12 +2803,12 @@
         "name": "AnimeOnline.Ninja",
         "packageName": "eu.kanade.tachiyomi.animeextension.es.animeonlineninja",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.animeonlineninja-v14.70.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.animeonlineninja-v14.69.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.es.animeonlineninja.png"
         },
         "extensionLib": "14",
-        "versionCode": "70",
-        "versionName": "14.70",
+        "versionCode": "69",
+        "versionName": "14.69",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -2823,12 +2823,12 @@
         "name": "AnimeYT.es",
         "packageName": "eu.kanade.tachiyomi.animeextension.es.animeytes",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.animeytes-v14.35.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.animeytes-v14.34.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.es.animeytes.png"
         },
         "extensionLib": "14",
-        "versionCode": "35",
-        "versionName": "14.35",
+        "versionCode": "34",
+        "versionName": "14.34",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -2843,12 +2843,12 @@
         "name": "AsiaLiveAction",
         "packageName": "eu.kanade.tachiyomi.animeextension.es.asialiveaction",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.asialiveaction-v14.56.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.asialiveaction-v14.55.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.es.asialiveaction.png"
         },
         "extensionLib": "14",
-        "versionCode": "56",
-        "versionName": "14.56",
+        "versionCode": "55",
+        "versionName": "14.55",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -2903,12 +2903,12 @@
         "name": "Cine24h",
         "packageName": "eu.kanade.tachiyomi.animeextension.es.cine24h",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.cine24h-v14.29.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.cine24h-v14.28.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.es.cine24h.png"
         },
         "extensionLib": "14",
-        "versionCode": "29",
-        "versionName": "14.29",
+        "versionCode": "28",
+        "versionName": "14.28",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -2923,12 +2923,12 @@
         "name": "CineCalidad",
         "packageName": "eu.kanade.tachiyomi.animeextension.es.cinecalidad",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.cinecalidad-v14.41.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.cinecalidad-v14.40.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.es.cinecalidad.png"
         },
         "extensionLib": "14",
-        "versionCode": "41",
-        "versionName": "14.41",
+        "versionCode": "40",
+        "versionName": "14.40",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -2963,12 +2963,12 @@
         "name": "Cuevana",
         "packageName": "eu.kanade.tachiyomi.animeextension.es.cuevana",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.cuevana-v14.71.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.cuevana-v14.70.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.es.cuevana.png"
         },
         "extensionLib": "14",
-        "versionCode": "71",
-        "versionName": "14.71",
+        "versionCode": "70",
+        "versionName": "14.70",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -2983,12 +2983,12 @@
         "name": "Cuevana3Ch",
         "packageName": "eu.kanade.tachiyomi.animeextension.es.cuevanach",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.cuevanach-v14.70.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.cuevanach-v14.69.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.es.cuevanach.png"
         },
         "extensionLib": "14",
-        "versionCode": "70",
-        "versionName": "14.70",
+        "versionCode": "69",
+        "versionName": "14.69",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -3023,12 +3023,12 @@
         "name": "Doramasflix",
         "packageName": "eu.kanade.tachiyomi.animeextension.es.doramasflix",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.doramasflix-v14.57.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.doramasflix-v14.56.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.es.doramasflix.png"
         },
         "extensionLib": "14",
-        "versionCode": "57",
-        "versionName": "14.57",
+        "versionCode": "56",
+        "versionName": "14.56",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -3043,12 +3043,12 @@
         "name": "Doramasyt",
         "packageName": "eu.kanade.tachiyomi.animeextension.es.doramasyt",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.doramasyt-v14.44.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.doramasyt-v14.43.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.es.doramasyt.png"
         },
         "extensionLib": "14",
-        "versionCode": "44",
-        "versionName": "14.44",
+        "versionCode": "43",
+        "versionName": "14.43",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -3123,12 +3123,12 @@
         "name": "FlixLatam",
         "packageName": "eu.kanade.tachiyomi.animeextension.es.flixlatam",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.flixlatam-v14.32.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.flixlatam-v14.31.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.es.flixlatam.png"
         },
         "extensionLib": "14",
-        "versionCode": "32",
-        "versionName": "14.32",
+        "versionCode": "31",
+        "versionName": "14.31",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -3143,12 +3143,12 @@
         "name": "Gnula",
         "packageName": "eu.kanade.tachiyomi.animeextension.es.gnula",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.gnula-v14.55.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.gnula-v14.54.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.es.gnula.png"
         },
         "extensionLib": "14",
-        "versionCode": "55",
-        "versionName": "14.55",
+        "versionCode": "54",
+        "versionName": "14.54",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -3163,12 +3163,12 @@
         "name": "Hackstore",
         "packageName": "eu.kanade.tachiyomi.animeextension.es.hackstore",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.hackstore-v14.46.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.hackstore-v14.45.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.es.hackstore.png"
         },
         "extensionLib": "14",
-        "versionCode": "46",
-        "versionName": "14.46",
+        "versionCode": "45",
+        "versionName": "14.45",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -3243,12 +3243,12 @@
         "name": "HomeCine",
         "packageName": "eu.kanade.tachiyomi.animeextension.es.homecine",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.homecine-v14.24.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.homecine-v14.23.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.es.homecine.png"
         },
         "extensionLib": "14",
-        "versionCode": "24",
-        "versionName": "14.24",
+        "versionCode": "23",
+        "versionName": "14.23",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -3263,12 +3263,12 @@
         "name": "Jkanime",
         "packageName": "eu.kanade.tachiyomi.animeextension.es.jkanime",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.jkanime-v14.56.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.jkanime-v14.55.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.es.jkanime.png"
         },
         "extensionLib": "14",
-        "versionCode": "56",
-        "versionName": "14.56",
+        "versionCode": "55",
+        "versionName": "14.55",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -3303,12 +3303,12 @@
         "name": "Katanime",
         "packageName": "eu.kanade.tachiyomi.animeextension.es.katanime",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.katanime-v14.28.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.katanime-v14.27.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.es.katanime.png"
         },
         "extensionLib": "14",
-        "versionCode": "28",
-        "versionName": "14.28",
+        "versionCode": "27",
+        "versionName": "14.27",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -3343,12 +3343,12 @@
         "name": "LaMovie",
         "packageName": "eu.kanade.tachiyomi.animeextension.es.lamovie",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.lamovie-v14.32.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.lamovie-v14.31.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.es.lamovie.png"
         },
         "extensionLib": "14",
-        "versionCode": "32",
-        "versionName": "14.32",
+        "versionCode": "31",
+        "versionName": "14.31",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -3363,12 +3363,12 @@
         "name": "Latanime",
         "packageName": "eu.kanade.tachiyomi.animeextension.es.latanime",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.latanime-v14.47.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.latanime-v14.46.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.es.latanime.png"
         },
         "extensionLib": "14",
-        "versionCode": "47",
-        "versionName": "14.47",
+        "versionCode": "46",
+        "versionName": "14.46",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -3423,12 +3423,12 @@
         "name": "MetroSeries",
         "packageName": "eu.kanade.tachiyomi.animeextension.es.metroseries",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.metroseries-v14.37.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.metroseries-v14.36.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.es.metroseries.png"
         },
         "extensionLib": "14",
-        "versionCode": "37",
-        "versionName": "14.37",
+        "versionCode": "36",
+        "versionName": "14.36",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -3443,12 +3443,12 @@
         "name": "MhdFlix",
         "packageName": "eu.kanade.tachiyomi.animeextension.es.mhdflix",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.mhdflix-v14.28.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.mhdflix-v14.27.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.es.mhdflix.png"
         },
         "extensionLib": "14",
-        "versionCode": "28",
-        "versionName": "14.28",
+        "versionCode": "27",
+        "versionName": "14.27",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -3463,12 +3463,12 @@
         "name": "MonosChinos",
         "packageName": "eu.kanade.tachiyomi.animeextension.es.monoschinos",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.monoschinos-v14.60.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.monoschinos-v14.59.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.es.monoschinos.png"
         },
         "extensionLib": "14",
-        "versionCode": "60",
-        "versionName": "14.60",
+        "versionCode": "59",
+        "versionName": "14.59",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -3483,12 +3483,12 @@
         "name": "MundoDonghua",
         "packageName": "eu.kanade.tachiyomi.animeextension.es.mundodonghua",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.mundodonghua-v14.50.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.mundodonghua-v14.49.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.es.mundodonghua.png"
         },
         "extensionLib": "14",
-        "versionCode": "50",
-        "versionName": "14.50",
+        "versionCode": "49",
+        "versionName": "14.49",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -3523,12 +3523,12 @@
         "name": "PelisForte",
         "packageName": "eu.kanade.tachiyomi.animeextension.es.pelisforte",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.pelisforte-v14.56.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.pelisforte-v14.55.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.es.pelisforte.png"
         },
         "extensionLib": "14",
-        "versionCode": "56",
-        "versionName": "14.56",
+        "versionCode": "55",
+        "versionName": "14.55",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -3543,12 +3543,12 @@
         "name": "PelisPlusHD",
         "packageName": "eu.kanade.tachiyomi.animeextension.es.pelisplushd",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.pelisplushd-v14.98.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.pelisplushd-v14.97.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.es.pelisplushd.png"
         },
         "extensionLib": "14",
-        "versionCode": "98",
-        "versionName": "14.98",
+        "versionCode": "97",
+        "versionName": "14.97",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -3563,12 +3563,12 @@
         "name": "PelisPlusPh",
         "packageName": "eu.kanade.tachiyomi.animeextension.es.pelisplusph",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.pelisplusph-v14.98.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.pelisplusph-v14.97.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.es.pelisplusph.png"
         },
         "extensionLib": "14",
-        "versionCode": "98",
-        "versionName": "14.98",
+        "versionCode": "97",
+        "versionName": "14.97",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -3583,12 +3583,12 @@
         "name": "PelisPlusTo",
         "packageName": "eu.kanade.tachiyomi.animeextension.es.pelisplusto",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.pelisplusto-v14.98.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.pelisplusto-v14.97.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.es.pelisplusto.png"
         },
         "extensionLib": "14",
-        "versionCode": "98",
-        "versionName": "14.98",
+        "versionCode": "97",
+        "versionName": "14.97",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -3623,12 +3623,12 @@
         "name": "SeriesKao",
         "packageName": "eu.kanade.tachiyomi.animeextension.es.serieskao",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.serieskao-v14.28.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.serieskao-v14.27.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.es.serieskao.png"
         },
         "extensionLib": "14",
-        "versionCode": "28",
-        "versionName": "14.28",
+        "versionCode": "27",
+        "versionName": "14.27",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -3643,12 +3643,12 @@
         "name": "SoloLatino",
         "packageName": "eu.kanade.tachiyomi.animeextension.es.sololatino",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.sololatino-v14.32.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.sololatino-v14.31.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.es.sololatino.png"
         },
         "extensionLib": "14",
-        "versionCode": "32",
-        "versionName": "14.32",
+        "versionCode": "31",
+        "versionName": "14.31",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -3769,12 +3769,12 @@
         "name": "VerPelisTop",
         "packageName": "eu.kanade.tachiyomi.animeextension.es.verpelistop",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.verpelistop-v14.17.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.verpelistop-v14.16.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.es.verpelistop.png"
         },
         "extensionLib": "14",
-        "versionCode": "17",
-        "versionName": "14.17",
+        "versionCode": "16",
+        "versionName": "14.16",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -3809,12 +3809,12 @@
         "name": "zeroanime",
         "packageName": "eu.kanade.tachiyomi.animeextension.es.zeroanime",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.zeroanime-v14.18.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.zeroanime-v14.17.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.es.zeroanime.png"
         },
         "extensionLib": "14",
-        "versionCode": "18",
-        "versionName": "14.18",
+        "versionCode": "17",
+        "versionName": "14.17",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -3829,12 +3829,12 @@
         "name": "Zonaleros",
         "packageName": "eu.kanade.tachiyomi.animeextension.es.zonaleros",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.zonaleros-v14.23.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-es.zonaleros-v14.22.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.es.zonaleros.png"
         },
         "extensionLib": "14",
-        "versionCode": "23",
-        "versionName": "14.23",
+        "versionCode": "22",
+        "versionName": "14.22",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -3913,12 +3913,12 @@
         "name": "FRAnime",
         "packageName": "eu.kanade.tachiyomi.animeextension.fr.franime",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-fr.franime-v16.33.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-fr.franime-v16.32.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.fr.franime.png"
         },
         "extensionLib": "16",
-        "versionCode": "33",
-        "versionName": "16.33",
+        "versionCode": "32",
+        "versionName": "16.32",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -3953,12 +3953,12 @@
         "name": "HDS",
         "packageName": "eu.kanade.tachiyomi.animeextension.fr.hds",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-fr.hds-v14.24.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-fr.hds-v14.23.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.fr.hds.png"
         },
         "extensionLib": "14",
-        "versionCode": "24",
-        "versionName": "14.24",
+        "versionCode": "23",
+        "versionName": "14.23",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -4033,12 +4033,12 @@
         "name": "Voiranime",
         "packageName": "eu.kanade.tachiyomi.animeextension.fr.voiranime",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-fr.voiranime-v16.9.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-fr.voiranime-v16.8.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.fr.voiranime.png"
         },
         "extensionLib": "16",
-        "versionCode": "9",
-        "versionName": "16.9",
+        "versionCode": "8",
+        "versionName": "16.8",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -4153,12 +4153,12 @@
         "name": "Kuramanime",
         "packageName": "eu.kanade.tachiyomi.animeextension.id.kuramanime",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-id.kuramanime-v14.27.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-id.kuramanime-v14.26.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.id.kuramanime.png"
         },
         "extensionLib": "14",
-        "versionCode": "27",
-        "versionName": "14.27",
+        "versionCode": "26",
+        "versionName": "14.26",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -4500,12 +4500,12 @@
         "name": "Docchi",
         "packageName": "eu.kanade.tachiyomi.animeextension.pl.docchi",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-pl.docchi-v16.21.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-pl.docchi-v16.20.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.pl.docchi.png"
         },
         "extensionLib": "16",
-        "versionCode": "21",
-        "versionName": "16.21",
+        "versionCode": "20",
+        "versionName": "16.20",
         "contentWarning": "CONTENT_WARNING_MIXED",
         "sources": [
           {
@@ -5092,12 +5092,12 @@
         "name": "Anime Srbija",
         "packageName": "eu.kanade.tachiyomi.animeextension.sr.animesrbija",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-sr.animesrbija-v14.27.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-sr.animesrbija-v14.26.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.sr.animesrbija.png"
         },
         "extensionLib": "14",
-        "versionCode": "27",
-        "versionName": "14.27",
+        "versionCode": "26",
+        "versionName": "14.26",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -5112,12 +5112,12 @@
         "name": "Animeler",
         "packageName": "eu.kanade.tachiyomi.animeextension.tr.animeler",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-tr.animeler-v14.40.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-tr.animeler-v14.39.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.tr.animeler.png"
         },
         "extensionLib": "14",
-        "versionCode": "40",
-        "versionName": "14.40",
+        "versionCode": "39",
+        "versionName": "14.39",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -5132,12 +5132,12 @@
         "name": "Anizm",
         "packageName": "eu.kanade.tachiyomi.animeextension.tr.anizm",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-tr.anizm-v14.50.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-tr.anizm-v14.49.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.tr.anizm.png"
         },
         "extensionLib": "14",
-        "versionCode": "50",
-        "versionName": "14.50",
+        "versionCode": "49",
+        "versionName": "14.49",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -5192,12 +5192,12 @@
         "name": "TR Anime Izle",
         "packageName": "eu.kanade.tachiyomi.animeextension.tr.tranimeizle",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-tr.tranimeizle-v14.42.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-tr.tranimeizle-v14.41.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.tr.tranimeizle.png"
         },
         "extensionLib": "14",
-        "versionCode": "42",
-        "versionName": "14.42",
+        "versionCode": "41",
+        "versionName": "14.41",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
