@@ -874,12 +874,12 @@
         "name": "Torrentio (Torrent / Debrid)",
         "packageName": "eu.kanade.tachiyomi.animeextension.all.torrentio",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-all.torrentio-v16.13.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-all.torrentio-v16.14.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.all.torrentio.png"
         },
         "extensionLib": "16",
-        "versionCode": "13",
-        "versionName": "16.13",
+        "versionCode": "14",
+        "versionName": "16.14",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "isTorrent": true,
         "sources": [
@@ -895,12 +895,12 @@
         "name": "Torrentio Anime (Torrent / Debrid)",
         "packageName": "eu.kanade.tachiyomi.animeextension.all.torrentioanime",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-all.torrentioanime-v16.25.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-all.torrentioanime-v16.26.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.all.torrentioanime.png"
         },
         "extensionLib": "16",
-        "versionCode": "25",
-        "versionName": "16.25",
+        "versionCode": "26",
+        "versionName": "16.26",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "isTorrent": true,
         "sources": [
