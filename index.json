@@ -2499,19 +2499,19 @@
         "name": "UHD Movies",
         "packageName": "eu.kanade.tachiyomi.animeextension.en.uhdmovies",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.uhdmovies-v14.20.apk",
+          "apkUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/apk/aniyomi-en.uhdmovies-v16.22.apk",
           "iconUrl": "https://raw.githubusercontent.com/BilaC0de/extensions-anime/refs/heads/repo-anime/icon/eu.kanade.tachiyomi.animeextension.en.uhdmovies.png"
         },
-        "extensionLib": "14",
-        "versionCode": "20",
-        "versionName": "14.20",
+        "extensionLib": "16",
+        "versionCode": "22",
+        "versionName": "16.22",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
             "id": "582068848290425167",
             "name": "UHD Movies",
             "language": "en",
-            "homeUrl": "https://uhdmovies.vip"
+            "homeUrl": "https://uhdmovies.ceo"
           }
         ]
       },
